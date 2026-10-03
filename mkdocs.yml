@@ -1,0 +1,11 @@
+site_name: Selen Koro — Digital Fabrication
+site_description: My coursework, projects, and fabrication process.
+site_author: Selen Koro
+site_url: https://koros1.github.io/digital-fabrication/
+repo_url: https://github.com/Koros1/digital-fabrication
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
