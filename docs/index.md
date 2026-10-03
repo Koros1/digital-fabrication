@@ -1,25 +1,21 @@
 # Selen Koro
 ## Digital Fabrication
 
-Welcome to my Digital Fabrication documentation website.
+From an idea to a physical prototype.
 
-Here, I document my coursework, design experiments, and making
-process through sketches, photographs, technical notes, and reflections.
+Welcome to my Digital Fabrication learning journal.
+Here, I document my coursework through sketches, photographs,
+technical notes, experiments, and reflections.
 
-## My Documentation
+## Explore
 
-Each assignment will explain:
+- [About Me](about.md) — My interests and approach to making.
+- [Assignments](assignments.md) — Coursework and process documentation.
+- [Projects](projects.md) — Design and fabrication experiments.
 
-- The goal of the task
-- The tools and materials I used
-- My design and fabrication process
-- Challenges, tests, and improvements
-- What I learned
+## My Approach
 
-## First Assignment: Documentation and GitHub Pages Setup
+Design. Make. Test. Improve.
 
-My first assignment is to create a documentation website using
-Markdown, a static site generator, and GitHub Pages.
-
-I chose MkDocs to turn my Markdown files into a website.
-I will use Obsidian to write and organise my documentation.
+I document both the results and the decisions, challenges,
+and iterations that shape them.
