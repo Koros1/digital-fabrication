@@ -1,35 +1,62 @@
-# Assignments
+# Assignment 1 — Documentation and GitHub Pages Setup
 
-## 01 — Documentation and GitHub Pages Setup
+## What was the goal?
 
-### Goal
-Create a website to document my Digital Fabrication coursework
-and share it through GitHub Pages.
+My goal was to create a website to document my Digital
+Fabrication coursework and share my learning process online.
 
-### Tools
-- GitHub for storing files and tracking changes
-- MkDocs for generating the website
-- GitHub Actions for building and publishing it
-- CSS for customising its appearance
-- Obsidian for writing and organising Markdown documentation
+## What did I do?
 
-### Process
-1. Created a public repository named digital-fabrication.
-2. Added mkdocs.yml to configure the website.
-3. Created the home page in docs/index.md.
-4. Added a GitHub Actions workflow to build and publish the site.
-5. Customised the design with a cream background and dark green navigation.
+I created a public GitHub repository called digital-fabrication.
+I added a mkdocs.yml configuration file and created Markdown
+pages inside the docs folder.
 
-### Result
-The website is published at:
-https://koros1.github.io/digital-fabrication/
+I set up a GitHub Actions workflow to build the website with
+MkDocs and publish it through GitHub Pages. I added Home,
+About Me, Assignments, and Projects pages.
 
-### Reflection
-The Markdown files contain the content, while MkDocs generates
-the website. The CSS file controls its appearance.
-GitHub records changes, and the workflow publishes updates.
+Finally, I downloaded the repository as a ZIP file and opened
+the docs folder in Obsidian to edit my documentation.
 
-### Writing with Obsidian
-I opened the docs folder as an Obsidian vault and edited
-this assignment in Markdown. I use GitHub's file upload
-feature to publish my updated Markdown files.
+## What tools did I use?
+
+- GitHub to store my files and track changes
+- MkDocs to generate the static website
+- GitHub Actions to automate building and publishing
+- GitHub Pages to host the website
+- Obsidian to edit Markdown files
+- CSS to customise the design
+
+## What went wrong?
+
+At first, I was unsure where to create the configuration,
+content, and workflow files. I also accidentally created
+an unwanted folder and note in Obsidian.
+
+Another challenge was understanding how my local edits
+would appear on the published website.
+
+## What did I change? How did I solve the problems?
+
+I checked the folder structure: mkdocs.yml belongs in the
+repository root, Markdown pages belong in docs, and the
+publishing workflow belongs in .github/workflows.
+
+I learned how to remove unwanted items and how to upload
+edited Markdown files to the correct folder on GitHub.
+Obsidian saves my edits locally; uploading them to GitHub
+triggers the workflow that updates the website.
+
+I also added a custom CSS file to change the navigation
+colour, background colour, typography, and spacing.
+
+## What was the result?
+
+I created and published a working documentation website
+with four main sections. I checked the home page and
+confirmed that the publishing workflow completed successfully.
+
+I can now write my documentation in Obsidian and upload
+updates to GitHub as the course progresses.
+
+[Visit my website](https://koros1.github.io/digital-fabrication/)
