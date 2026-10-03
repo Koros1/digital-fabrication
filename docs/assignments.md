@@ -28,3 +28,8 @@ https://koros1.github.io/digital-fabrication/
 The Markdown files contain the content, while MkDocs generates
 the website. The CSS file controls its appearance.
 GitHub records changes, and the workflow publishes updates.
+
+### Writing with Obsidian
+I opened the docs folder as an Obsidian vault and edited
+this assignment in Markdown. I use GitHub's file upload
+feature to publish my updated Markdown files.
