@@ -9,6 +9,9 @@ theme:
 
 nav:
   - Home: index.md
-  
+  - About Me: about.md
+  - Assignments: assignments.md
+  - Projects: projects.md
+
 extra_css:
   - stylesheets/custom.css
