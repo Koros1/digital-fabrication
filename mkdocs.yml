@@ -6,12 +6,13 @@ repo_url: https://github.com/Koros1/digital-fabrication
 
 theme:
   name: mkdocs
+  custom_dir: overrides
 
 nav:
   - Home: index.md
   - About Me: about.md
   - Assignments: assignments.md
   - Projects: projects.md
-  
+
 extra_css:
   - stylesheets/custom.css
