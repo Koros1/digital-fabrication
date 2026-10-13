@@ -8,11 +8,10 @@ theme:
   name: mkdocs
 
 nav:
-nav:
   - Home: index.md
   - About Me: about.md
   - Assignments: assignments.md
-  - Assignment 2 — Rocket Design: assignment-2.md
+  - Assignment 2: assignment-2.md
   - Projects: projects.md
   
 extra_css:
