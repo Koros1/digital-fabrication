@@ -1,4 +1,4 @@
-# Assignment 1 & 2 — Rocket Design in Tinkercad
+# Assignment 2 — Rocket Design in Tinkercad
 
 ## What was the goal?
 The goal was to explore basic 3D modelling in Tinkercad by creating two different rocket designs and comparing their shapes, proportions, and visual details.
