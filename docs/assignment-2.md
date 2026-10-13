@@ -18,4 +18,4 @@ I would inspect each model from different angles, adjust the position and size o
 ## What was the result?
 I completed two visually distinct rocket models in the same Tinkercad workspace. This project helped me explore how changes in proportions, colours, and details can create different designs based on the same theme.
 ## 3D Model
-[Download the two rocket models (.STL)](rocket-designs.stl)
+[View the two rocket models on GitHub](https://github.com/Koros1/digital-fabrication/blob/main/Selen%20Koro-%20Roket%20Tasarımı.stl)
