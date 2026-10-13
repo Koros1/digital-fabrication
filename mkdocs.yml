@@ -5,14 +5,12 @@ site_url: https://koros1.github.io/digital-fabrication/
 repo_url: https://github.com/Koros1/digital-fabrication
 
 theme:
-  name: readthedocs
+  name: mkdocs
 
 nav:
   - Home: index.md
   - About Me: about.md
-  - Assignments:
-      - Overview: assignments.md
-      - Assignment 2 — Rocket Design: assignment-2.md
+  - Assignments: assignments.md
   - Projects: projects.md
   
 extra_css:
