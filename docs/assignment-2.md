@@ -70,11 +70,11 @@ I used vector design software to draw the cut and score paths, then a laser cutt
 
 ## What went wrong?
 
-*(Add your own notes here — for example, any issues with the laser cutter settings, the fit between the box and the rocket, or problems with the cut/score lines.)*
+I had some difficulty at the very start of the drawing stage, working out how to lay out the cut and score lines so the net would actually fold into a box the right size for the rocket. Once I got past that initial sketching stage, the rest of the process went smoothly.
 
 ## What did I change? How did I solve the problem?
 
-*(Add what you changed to fix the issue above.)*
+I took more time at the beginning to plan the panel layout and dimensions before finalising the cut and score lines, which made the rest of the design straightforward.
 
 ## What was the result?
 
@@ -82,7 +82,7 @@ I produced a foldable cardboard box sized to hold the unassembled rocket, cut an
 
 ## What could be improved?
 
-*(Add anything you'd check or adjust next time — for example, tab sizes, glue area, or tolerances for the cardboard thickness.)*
+Next time, I would spend a little more time planning the initial layout before drawing, so the cut and score lines come together faster at the start.
 
 ## Design Files
 
