@@ -1,7 +1,7 @@
 <div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix"
      role="complementary">
 
-  {% if page and page.file.src_uri in ['assignments.md', 'assignment-2.md'] %}
+  {% if page and page.file.src_uri in ['assignments.md', 'assignment-2.md', 'assignment-3.md'] %}
   <div style="padding: 12px 20px; border-bottom: 1px solid #ddd;">
     <strong>Assignments</strong>
 
@@ -15,6 +15,12 @@
        style="display: block; padding: 8px 0;
        {% if page.file.src_uri == 'assignment-2.md' %}font-weight: bold;{% endif %}">
       Assignment 2
+    </a>
+
+    <a href="{{ 'assignment-3/' | url }}"
+       style="display: block; padding: 8px 0;
+       {% if page.file.src_uri == 'assignment-3.md' %}font-weight: bold;{% endif %}">
+      Assignment 3
     </a>
   </div>
   {% endif %}
